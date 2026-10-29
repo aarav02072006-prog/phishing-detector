@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Phishing Detector",
+  "version": "0.1.0",
+  "description": "Detects phishing websites and warns you before you share sensitive data.",
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_title": "Phishing Detector"
+  },
+  "permissions": ["tabs"]
+}
